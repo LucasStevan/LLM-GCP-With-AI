@@ -1,0 +1,42 @@
+# ==========================================
+# Core da API e Ambiente
+# ==========================================
+fastapi
+uvicorn
+python-dotenv
+
+# ==========================================
+# Manipulação de Dados e Integração Pública
+# ==========================================
+pandas
+pandas-gbq
+basedosdados
+
+# ==========================================
+# LangChain e Inteligência Artificial (Gemini)
+# ==========================================
+langchain
+langchain-community
+langchain-google-genai
+
+# ==========================================
+# Banco de Dados e ORM (SQL/BigQuery)
+# ==========================================
+sqlalchemy
+sqlalchemy-bigquery
+
+# ==========================================
+# Ecossistema Google Cloud Platform (GCP)
+# ==========================================
+google-cloud-bigquery
+google-cloud-bigquery-storage
+google-cloud-storage
+google-cloud-secret-manager
+
+# ==========================================
+# Autenticação Google
+# ==========================================
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
